@@ -27,6 +27,10 @@ Files
 
 Running the first couple of cells will download and unzip the required dataset. The [dataset](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip) is pickled where the images have already been resized to 32x32.
 
+Usage
+---
+Cloning the repository and running the notebook is required to get the project running
+
 Notebook
 ---
 The `deep_nn_traffic_sign_classifier.ipynb` notebook goes in thorough details of each of the steps laid out above with accompanying images.
